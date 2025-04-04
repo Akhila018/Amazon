@@ -1,6 +1,8 @@
 n=423
 rev=0
 a=10
+b=2
+c=2
 digit=0
 while(n<=10):
    rev=rev*10+n%10
