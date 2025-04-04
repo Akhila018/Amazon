@@ -1,0 +1,10 @@
+n=int(input("enter the num"))
+i=0
+fact=1
+if num<=1 and if num<=0:
+  print("no output")
+elif num<=1:
+  print("num")
+for i in range of n:
+    fact*=i
+    print(i)
