@@ -4,7 +4,6 @@ a=10
 b=2
 c=2
 d=1
-f=0
 digit=0
 while(n<=10):
    rev=rev*10+n%10
