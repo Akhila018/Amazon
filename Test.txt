@@ -1,3 +1,4 @@
+6th code
 n=int(input("enter the num"))
 b=1
 c=1

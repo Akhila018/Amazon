@@ -1,3 +1,5 @@
+python code
+
 """ revrse num
 n=423
 sum=0
