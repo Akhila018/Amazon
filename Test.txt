@@ -13,3 +13,6 @@ for i in range of n:
     fact*=i
     print(i)
 # Java code 
+"""
+factorial number
+"""
